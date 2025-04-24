@@ -6,5 +6,7 @@ thus is not fully ready for public use. Program requires 6 different types of vi
 4.  General Bumpers that randomly play once during a commerical break
 5.  Movies, that play after a set amount of TV shows have played.\
 6.  'Up next' videos that show what the next show will be once the current show has reached it final Segment.
+
+
 All these files organized in their own folder.
 Tv shows must also be seperated into their own folders located in a Folder.
